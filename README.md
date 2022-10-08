@@ -6,7 +6,7 @@ __Версия beta 0.1__
 + __установка Python__
    +  скачиваем установщик [от сюда](https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe)
    + запускаем его 
-   + обязаательно ставим глочку как показано наа фото ![фото установщика](https://github.com/F1F1FISHKA/imagessss/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-10-06%20200208.jpg)
+   + обязаательно ставим глочку как показано наа фото ![фото установщика](https://photos.app.goo.gl/rLR3t6wSXEXf1kq49)
    + нажимаем install now
    + перезагружаем ПК и готово
   ___
